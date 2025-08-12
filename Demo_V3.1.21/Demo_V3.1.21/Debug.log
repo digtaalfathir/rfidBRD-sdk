@@ -1,0 +1,111 @@
+﻿RFID Log
+2025-07-25 11:05:56,082 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 11:05:59,897 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
+2025-07-25 11:06:40,896 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
+2025-07-25 11:16:10,784 [1] INFO - portal
+2025-07-25 11:16:40,320 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 11:18:14,658 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2025-07-25 11:19:02,639 [1] WARN - : ErrCode(FFF22) 
+2025-07-25 13:32:02,430 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:32:02,502 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:32:18,505 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 13:32:18,507 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2025-07-25 13:33:31,907 [1] WARN - : ErrCode(FFF22) 
+2025-07-25 13:40:26,846 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:40:26,975 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:40:45,320 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 13:40:45,321 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+2025-07-25 13:40:50,807 [1] WARN - : ErrCode(FFF22) 
+2025-07-25 13:54:47,891 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:54:47,971 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:55:20,544 [1] INFO - p.ConfigData.Length=12
+2025-07-25 13:55:21,102 [1] INFO - p.ConfigData.Length=12
+2025-07-25 14:27:05,127 [5] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 14:27:05,129 [5] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-25 15:05:45,773 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 15:05:45,783 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
+2025-07-25 15:05:53,718 [1] INFO - p.ConfigData.Length=12
+2025-07-25 15:05:53,804 [1] INFO - p.ConfigData.Length=12
+2025-07-25 15:22:35,897 [1] INFO - p.ConfigData.Length=12
+2025-07-25 15:22:35,960 [1] INFO - p.ConfigData.Length=12
+2025-07-25 16:09:54,193 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:28:21,891 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:28:21,975 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:28:33,723 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:28:48,472 [5] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 11:28:48,473 [5] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 11:30:00,113 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:30:00,155 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:30:29,836 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:39:40,977 [10] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 11:39:50,622 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:39:50,689 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:40:23,491 [6] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 11:40:41,581 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:40:41,667 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:47:13,182 [12] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 11:49:46,205 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:49:46,324 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:51:02,857 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:51:02,935 [1] INFO - p.ConfigData.Length=12
+2025-07-28 11:51:39,179 [1] INFO - p.ConfigData.Length=12
+2025-07-28 12:19:13,074 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 12:19:13,076 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2025-07-28 13:52:28,273 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 13:52:28,281 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
+2025-07-28 13:52:31,379 [1] INFO - p.ConfigData.Length=12
+2025-07-28 13:52:31,550 [1] INFO - p.ConfigData.Length=12
+2025-07-28 13:54:54,445 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 13:55:19,396 [1] INFO - p.ConfigData.Length=12
+2025-07-28 13:55:19,524 [1] INFO - p.ConfigData.Length=12
+2025-07-28 13:55:28,151 [8] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:01:26,294 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:01:26,480 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:03:28,387 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 14:03:28,389 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:03:58,277 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:03:58,418 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:07:20,079 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:07:20,191 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:27:02,537 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 14:27:02,539 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:27:03,279 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:27:03,329 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:27:19,154 [10] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:29:50,056 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:29:50,293 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:29:55,763 [7] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:30:04,374 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:30:04,448 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:30:12,316 [8] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-07-28 14:32:48,966 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:32:49,133 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:37:48,434 [1] INFO - p.ConfigData.Length=12
+2025-07-28 14:38:26,419 [3] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-28 14:38:26,420 [3] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-08-07 08:45:45,831 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:45:45,911 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:46:03,765 [5] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-08-07 08:46:03,768 [5] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2025-08-07 08:46:24,651 [1] WARN - : ErrCode(FFF22) 
+2025-08-07 08:46:26,465 [1] WARN - : ErrCode(FFF22) 
+2025-08-07 08:46:29,017 [1] WARN - : ErrCode(FFF22) 
+2025-08-07 08:46:33,258 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
+2025-08-07 08:51:03,822 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:51:03,880 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:51:09,588 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:51:22,204 [1] INFO - p.ConfigData.Length=12
+2025-08-07 08:51:58,321 [6] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-08-11 13:56:44,237 [1] INFO - p.ConfigData.Length=12
+2025-08-11 13:56:44,339 [1] INFO - p.ConfigData.Length=12
+2025-08-11 13:56:51,039 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:00:00,268 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:02:40,745 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-08-11 14:02:47,802 [5] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-08-11 14:02:50,983 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:02:51,040 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:02:55,739 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:07:27,343 [7] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+2025-08-11 14:07:30,079 [1] INFO - p.ConfigData.Length=12
+2025-08-11 14:07:30,142 [1] INFO - p.ConfigData.Length=12
+2025-08-11 16:31:25,671 [6] WARN - : ErrCode(FFF22) |Exception:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.

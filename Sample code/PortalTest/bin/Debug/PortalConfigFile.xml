@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Terminals>
+  <LogLevel>INFO</LogLevel>
+  <Client Name="Portal1" Group="Group1">
+    <Port Type="TcpClient" Protocol="GRP">192.168.0.201:9090</Port>
+  </Client>
+</Terminals>

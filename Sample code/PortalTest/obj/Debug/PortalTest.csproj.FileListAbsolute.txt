@@ -1,0 +1,44 @@
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\bin\Debug\PortalTest.exe.config
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\bin\Debug\PortalTest.exe
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\bin\Debug\PortalTest.pdb
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.csprojResolveAssemblyReference.cache
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.FormMain.resources
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.Properties.Resources.resources
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.csproj.GenerateResource.Cache
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.exe
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.pdb
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.FormConn.resources
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.FormScanConfig.resources
+F:\工作文件\通用演示软件\RFID Demo\PortalTest\obj\Debug\PortalTest.FormPortalConfig.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\PortalTest.exe.config
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\PortalTest.exe
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\PortalTest.pdb
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\API.dll
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\Core.dll
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\API.pdb
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\bin\Debug\Core.pdb
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.csprojResolveAssemblyReference.cache
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.FormConn.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.FormMain.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.FormPortalConfig.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.FormScanConfig.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.Properties.Resources.resources
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.csproj.GenerateResource.Cache
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.exe
+F:\工作文件\通用演示软件\SwiftekDemo\PortalTest\obj\Debug\PortalTest.pdb
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Debug\PortalTest.exe.config
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Debug\PortalTest.exe
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Debug\PortalTest.pdb
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Debug\PortalAPI.dll
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Debug\PortalAPI.pdb
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.csprojAssemblyReference.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.FormConn.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.FormMain.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.FormPortalConfig.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.FormScanConfig.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.Properties.Resources.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.csproj.GenerateResource.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.csproj.CoreCompileInputs.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.csproj.CopyComplete
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.exe
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Debug\PortalTest.pdb

@@ -1,0 +1,16 @@
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.csprojAssemblyReference.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.FormConn.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.FormMain.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.FormPortalConfig.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.FormScanConfig.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.Properties.Resources.resources
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.csproj.GenerateResource.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.csproj.CoreCompileInputs.cache
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Release\PortalTest.exe.config
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Release\PortalTest.exe
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Release\PortalTest.pdb
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Release\PortalAPI.dll
+D:\work\bowei\demo\portal\Portal\PortalTest\bin\Release\PortalAPI.pdb
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.csproj.CopyComplete
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.exe
+D:\work\bowei\demo\portal\Portal\PortalTest\obj\Release\PortalTest.pdb

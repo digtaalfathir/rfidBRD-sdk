@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Terminals IsSingleReader="True" CurrentReaderName="Client1" IsBeep="False">
+  <LogLevel>INFO</LogLevel>
+  <Client Name="Client1" Group="Group1">
+    <Port Type="TcpClient" Protocol="LRP">192.168.1.201:9090</Port>
+  </Client>
+  <Client Name="Client2" Group="Group1">
+    <Port Type="TcpClient" Protocol="LRP">192.168.1.202:9090</Port>
+  </Client>
+</Terminals>

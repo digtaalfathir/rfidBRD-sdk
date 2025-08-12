@@ -1,0 +1,18 @@
+﻿RFID Log
+2020-09-15 10:45:42,491 [3] WARN - :连接已断开。|Exception:无法从传输连接中读取数据: 你的主机中的软件中止了一个已建立的连接。。
+2020-09-21 21:25:45,948 [3] WARN - :连接已断开。|Exception:无法从传输连接中读取数据: 你的主机中的软件中止了一个已建立的连接。。
+2020-09-22 00:11:05,407 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:11:13,515 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:11:18,588 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:11:23,107 [3] WARN - :连接已断开。|Exception:无法从传输连接中读取数据: 你的主机中的软件中止了一个已建立的连接。。
+2020-09-22 00:38:01,654 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:38:03,051 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:38:07,644 [1] INFO - p.ConfigData.Length=12
+2020-09-22 00:38:20,093 [1] INFO - 操作超时
+2020-09-22 00:38:24,942 [1] INFO - p.ConfigData.Length=9
+2020-09-22 00:38:36,294 [1] INFO - p.ConfigData.Length=9
+2020-09-22 00:41:05,025 [1] INFO - p.ConfigData.Length=9
+2020-09-22 00:41:13,542 [1] INFO - 操作超时
+2020-09-22 00:41:20,755 [3] WARN - :连接已断开。|Exception:无法从传输连接中读取数据: 你的主机中的软件中止了一个已建立的连接。。
+2025-07-25 15:32:07,765 [1] FATAL - ErrCode.xml: ErrCode(FFF11) 
+2025-07-25 15:32:07,776 [1] FATAL - : ErrCode(FFF09) |Exception:Ping不通
